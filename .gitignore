@@ -1,0 +1,21 @@
+# System and editor directories
+.DS_Store
+.idea/
+
+# Dataset
+data/
+
+# Result
+local/
+checkpoints/
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Development files
+*.ipynb

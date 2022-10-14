@@ -1,7 +1,7 @@
 # GraphDE
 Official implementation for our paper:
 
-GraphDE: A Generative Framework for Debiased Learning and Out-of-Distribution Detection on Graphs
+[GraphDE: A Generative Framework for Debiased Learning and Out-of-Distribution Detection on Graphs](https://www.researchgate.net/publication/364290694_GraphDE_A_Generative_Framework_for_Debiased_Learning_and_Out-of-Distribution_Detection_on_Graphs)
 
 Zenan Li, Qitian Wu, Fan Nie, Junchi Yan* (* denotes correspondence)
 

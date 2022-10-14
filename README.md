@@ -37,7 +37,14 @@ Notably, the debiased learning and OOD detection procedure are integrated in our
 
 ## Reference
 
-T.B.D.
+```bibtex
+      @inproceedings{li2022graphde,
+      title = {GraphDE: A Generative Framework for Debiased Learning and Out-of-Distribution Detection on Graphs},
+      author = {Zenan Li and Qitian Wu and Fan Nie and Junchi Yan},
+      booktitle = {Advances in Neural Information Processing Systems (NeurIPS)},
+      year = {2022}
+      }
+```
 
 ## Acknowledgements
 
